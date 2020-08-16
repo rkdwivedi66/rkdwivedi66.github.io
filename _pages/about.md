@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-===
-I did my M.Sc. in Physics from Kanpur University followed by M.Tech. in Materials Technology and Ph.D. in Materials Science and Technology from Institute of Technology,  Banaras Hindu University  (IIT BHU), Varanasi. After completing my Ph.D., I have joined as a post doctoral fellow in the Department of Metallurgical Engineering and Materials Science, IIT Bombay.  I have been working in the field of synthesis and characterization of advance materials for last 15 years. His research findings include the development of materials for Barrier Layer Capacitor applications and publication of a series in three parts on Valence Compensated Perovskite Oxides. I am a recipient of best paper presentation award in VIIIth National Seminar on Ferroelectrics and Dielectrics (India) and currently working as a Principal Investigator/Coordinator on a few research projects sponsored by DST and one National project on MEMS and Smart Systems sponsored by NPMASS, Gov. of India.
+
+Dr. Dwivedi did my M.Sc. in Physics from Kanpur University followed by M.Tech. in Materials Technology and Ph.D. in Materials Science and Technology from Institute of Technology,  Banaras Hindu University  (IIT BHU), Varanasi. After completing my Ph.D., Dr. Dwivedi have joined as a post doctoral fellow in the Department of Metallurgical Engineering and Materials Science, IIT Bombay.  Dr. Dwivedi have been working in the field of synthesis and characterization of advance materials for last 15 years. His research findings include the development of materials for Barrier Layer Capacitor applications and publication of a series in three parts on Valence Compensated Perovskite Oxides. Dr. Dwivedi is a recipient of best paper presentation award in VIIIth National Seminar on Ferroelectrics and Dielectrics (India) and currently working as a Principal Investigator/Coordinator on a few research projects sponsored by DST and one National project on MEMS and Smart Systems sponsored by NPMASS, Gov. of India.
 
 <!-- A data-driven personal website
 ======
